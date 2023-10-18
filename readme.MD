@@ -11,3 +11,23 @@
     - 2023/09/25～2023/09/29 阶段性任务：根据前面所学知识，模仿研发云首页写一个前端静态页面
 
 ![](/研发云首页.png)
+
+# 学习总结-css相关
+## 一、盒子模型
+- margin、padding使用
+- margin 负值
+- 居中
+## 二、常用布局
+- flex 布局
+- gird
+- flot布局
+## 三、图标管理
+使用iconfont
+- 在线引入
+- 本地引入
+
+
+**参考资料**
+- [iconfont](https://www.iconfont.cn/)
+- [tailwindcss](https://www.tailwindcss.cn/docs/installation)
+- [菜鸟教程css3](https://www.runoob.com/css3/css3-tutorial.html)
